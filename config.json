@@ -1,0 +1,14 @@
+{
+  "app_version": "3.9.6",
+  "latest_version": "3.9.6",
+  "release_notes": "- 🎯 **Khắc phục lỗi tràn khung chữ tùy chọn định khoản:** Áp dụng cơ chế ngắt dòng tự nhiên và tinh gọn câu chữ, đảm bảo văn bản nằm gọn gàng 100% bên trong khung card.\n- ⚡ **Chuẩn hóa bố cục Dropdown Xuất Excel:** Khóa an toàn box-sizing và white-space cho toàn bộ menu, triệt tiêu hoàn toàn hiện tượng vỡ khung khi chuyển chế độ bảng kê.\n- 🛡️ **Tối ưu hóa hiển thị giao diện:** Tăng độ tương phản, canh lề đều đặn và đảm bảo trải nghiệm đồng nhất trên cả giao diện Sáng và Tối.",
+  "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
+  "revoked_licenses": [],
+  "revoked_devices": [],
+  "announcement": {
+    "enabled": false,
+    "title": "",
+    "message": "",
+    "level": "INFO"
+  }
+}
