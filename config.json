@@ -1,0 +1,14 @@
+{
+  "app_version": "3.9.7",
+  "latest_version": "3.9.7",
+  "release_notes": "- 🛡️ **Kiến trúc lưu trữ Pet vĩnh viễn (Dual-layer Persistence):** Tự động đồng bộ và sao lưu cấp độ, EXP, túi thức ăn vào tệp cấu hình đĩa cứng, chống mất dữ liệu khi cập nhật ứng dụng.\n- ⚡ **Cơ chế tự động khôi phục (Auto-Recovery):** Tự động kéo lại 100% cấp độ và tiến trình của Pet ngay khi khởi động nếu phát hiện bộ nhớ tạm bị trống.\n- 🎯 **Tối ưu hóa hiệu năng & độ tin cậy:** Khôi phục cấp độ Level 30 (Thần Rà Soát Thuế), Stage 3 Master và đảm bảo toàn vẹn dữ liệu qua mọi phiên làm việc.",
+  "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
+  "revoked_licenses": [],
+  "revoked_devices": [],
+  "announcement": {
+    "enabled": false,
+    "title": "",
+    "message": "",
+    "level": "INFO"
+  }
+}
