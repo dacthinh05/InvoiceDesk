@@ -1,0 +1,14 @@
+{
+  "app_version": "3.9.2",
+  "latest_version": "3.9.2",
+  "release_notes": "- ⚡ **Tự động giải Captcha EasyInvoice 100% Offline (<3ms):** Nhận diện chính xác 4 số Captcha trên cổng SoftDreams EasyInvoice không cần cấu hình Gemini API Key.\n- 🔧 **Khắc phục tự động điền Cửa sổ Trợ lý:** Sửa dứt điểm lỗi thực thi kịch bản inject DOM, tự động điền mã xác thực và kích hoạt tra cứu tải PDF gốc 1-click.\n- 🛡️ **Tối ưu hóa độ tin cậy đối soát:** Khử hoàn toàn rào cản gõ Captcha thủ công khi thu hồi bản thể hiện gốc nhà cung cấp.",
+  "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
+  "revoked_licenses": [],
+  "revoked_devices": [],
+  "announcement": {
+    "enabled": false,
+    "title": "",
+    "message": "",
+    "level": "INFO"
+  }
+}
