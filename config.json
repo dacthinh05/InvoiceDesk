@@ -1,0 +1,14 @@
+{
+  "app_version": "3.9.4",
+  "latest_version": "3.9.4",
+  "release_notes": "- 🎯 **Khắc phục giao diện Pomodoro Focus:** Co giãn chuẩn xác vòm cây mature (scale 0.82), loại bỏ hiện tượng cây tràn biên che nút Nghỉ ngắn (5m).\n- ⚡ **Chuẩn hóa font chữ Segoe UI & Tabular Numbers:** Loại bỏ fallback font Courier New, số đếm giờ 15:00 phẳng và sắc nét, hiển thị mượt mà dấu tiếng Việt.\n- 🛡️ **Tối ưu hóa độ tin cậy ghi cấu hình:** Áp dụng cơ chế ghi settings an toàn nguyên tử (Atomic write) và chuẩn hóa ngày hạch toán theo múi giờ Việt Nam.",
+  "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
+  "revoked_licenses": [],
+  "revoked_devices": [],
+  "announcement": {
+    "enabled": false,
+    "title": "",
+    "message": "",
+    "level": "INFO"
+  }
+}
