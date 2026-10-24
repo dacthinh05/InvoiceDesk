@@ -1,0 +1,14 @@
+{
+  "app_version": "3.9.5",
+  "latest_version": "3.9.5",
+  "release_notes": "- 🛡️ **Bảo mật đa doanh nghiệp (Empty State khi chưa login):** Ngăn tự động nạp lịch sử hóa đơn của công ty cũ khi khởi động app lúc chưa đăng nhập, đảm bảo bí mật số liệu thuế giữa các đơn vị.\n- ⚡ **Khắc phục tùy chọn Kèm 4 cột định khoản:** Chuyển đổi sang tương tác trực tiếp, hỗ trợ click mượt mà toàn diện, bổ sung huy hiệu +4 Cột và cập nhật nhãn nút xuất Excel rõ ràng.\n- 🎯 **Tối ưu hóa độ tin cậy tải file:** Đồng bộ dữ liệu phiên làm việc ngay khi đăng nhập đúng MST và dọn sạch dữ liệu khi đăng xuất.",
+  "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
+  "revoked_licenses": [],
+  "revoked_devices": [],
+  "announcement": {
+    "enabled": false,
+    "title": "",
+    "message": "",
+    "level": "INFO"
+  }
+}
