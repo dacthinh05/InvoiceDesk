@@ -1,0 +1,14 @@
+{
+  "app_version": "3.9.3",
+  "latest_version": "3.9.3",
+  "release_notes": "- ⚡ **Mở rộng không gian tập trung 23 âm thanh:** Bổ sung 3 bản nhạc Lofi không lời đa sắc thái (Hoàng Hôn, Đêm Muộn, Ban Mai) và âm thanh Thư viện giấy tờ xử lý vòng lặp mượt mà 100% offline.\n- 🎯 **5 Bộ Phối Cảnh tuyển chọn mới:** Kích hoạt 1-click các không gian làm việc chuyên sâu như Cú Đêm Quyết Toán, Phòng Lưu Trữ Chứng Từ, Góc Bàn Hoàng Hôn, Khởi Động Năng Lượng.\n- ⚙️ **Chuẩn hóa giao diện Focus Soundscape:** Thiết kế bộ vector icon SVG chuẩn FinTech, cập nhật nhãn đếm động danh mục âm nhạc và tối ưu hóa hiệu năng phát đa kênh.",
+  "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
+  "revoked_licenses": [],
+  "revoked_devices": [],
+  "announcement": {
+    "enabled": false,
+    "title": "",
+    "message": "",
+    "level": "INFO"
+  }
+}
