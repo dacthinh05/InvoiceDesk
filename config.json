@@ -1,0 +1,14 @@
+{
+  "app_version": "4.2.10",
+  "latest_version": "4.2.10",
+  "release_notes": "- 🎯 **Cố Định Thứ Tự Cụm HUD & Khắc Phục Lỗi Kéo Thả:** Khóa cứng thứ tự chuẩn [Pet] -> [Tai nghe] -> [Lv.30], triệt tiêu hiện tượng Pet nhảy qua đầu Level 30 khi ăn mừng hoặc nhận EXP; tối ưu kéo thả 2D mượt mà không bị giật bắn.\n- 🛡️ **Thiết Lập Vùng An Toàn Bảng Hóa Đơn:** Giới hạn Pet ở chế độ dạo chơi di chuyển dọc sàn chân trang (Footer), tuyệt đối không lang thang lên giữa bảng hóa đơn che khuất số tiền hay trạng thái chứng từ.\n- ⚡ **Khắc Phục Cắt Xén Chip EXP:** Điều chỉnh tọa độ và căn giữa chip EXP nổi (+2 ⭐) trên Level HUD pill, hiển thị trọn vẹn không bị xén đỉnh trần.\n- ⚙️ **Cổng Kiểm Định Thiết Kế Pixel Pet & Trợ Lý:** Tự động hóa kiểm soát tính nhất quán đồ họa cho 8 loài Pet qua 4 bậc tiến hóa và 5 nhân vật linh vật trợ lý.",
+  "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
+  "revoked_licenses": [],
+  "revoked_devices": [],
+  "announcement": {
+    "enabled": false,
+    "title": "",
+    "message": "",
+    "level": "INFO"
+  }
+}
