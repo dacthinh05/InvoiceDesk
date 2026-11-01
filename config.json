@@ -1,0 +1,14 @@
+{
+  "app_version": "4.2.11",
+  "latest_version": "4.2.11",
+  "release_notes": "- ⚡ **Tối Ưu Hóa Tải Hàng Loạt & Trải Nghiệm Modal:** Bổ sung phím tắt Esc đóng nhanh hộp thoại tải hóa đơn và báo cáo tải hàng loạt, hỗ trợ click backdrop ngoài hộp thoại; giới hạn chiều cao tối đa tự cuộn nội dung, triệt tiêu hiện tượng tràn màn hình trên laptop màn nhỏ.\n- 🛡️ **Chuẩn Hóa Làm Tròn Thuế & Tổng Thanh Toán MTT:** Khớp chính xác cơ chế làm tròn hóa đơn máy tính tiền (MTT) bán lẻ theo giá gồm thuế, giữ nguyên tổng thanh toán chẵn và cân đối tiền thuế từng dòng không lệch số tổng.\n- 🎯 **Tinh Gọn Giao Diện Báo Cáo:** Nâng cấp nút đóng chuẩn Accessible, cải thiện khả năng phản hồi thao tác và tối ưu độ mượt của giao diện.",
+  "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
+  "revoked_licenses": [],
+  "revoked_devices": [],
+  "announcement": {
+    "enabled": false,
+    "title": "",
+    "message": "",
+    "level": "INFO"
+  }
+}
