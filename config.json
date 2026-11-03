@@ -1,0 +1,14 @@
+{
+  "app_version": "4.3.0",
+  "latest_version": "4.3.0",
+  "release_notes": "- 🛡️ **Kiểm Soát Truy Vấn Theo Từng MST:** Tự động khóa tạm thời và giãn nhịp truy vấn Cổng Thuế theo từng MST khi gặp quá tải, kèm cảnh báo trực quan trên thanh trạng thái.\n- ⚡ **Tải Ngầm & Xem Trực Tiếp PDF Gốc EasyInvoice:** Tự động giải captcha offline và nạp thẳng file PDF gốc của EasyInvoice lên màn hình trong ~2 giây mà không cần mở cửa sổ phụ.\n- 🔧 **Đồng Bộ Captcha EasyInvoice:** Khắc phục triệt để lỗi lệch mã xác thực giữa ảnh hiển thị và phiên máy chủ khi tra cứu hóa đơn EasyInvoice, không còn bị báo sai captcha.",
+  "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
+  "revoked_licenses": [],
+  "revoked_devices": [],
+  "announcement": {
+    "enabled": false,
+    "title": "",
+    "message": "",
+    "level": "INFO"
+  }
+}
