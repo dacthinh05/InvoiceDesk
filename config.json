@@ -1,0 +1,14 @@
+{
+  "app_version": "4.3.5",
+  "latest_version": "4.3.5",
+  "release_notes": "- ⚡ **Tối Ưu Hiệu Năng Đối Chiếu Mờ & Chuẩn Hóa Ngày Tháng:** Cache tối ưu hóa việc chuyển đổi ngày và chuẩn hóa ký hiệu hóa đơn trong công cụ đối chiếu mờ, tăng tốc độ xử lý dữ liệu lớn.\n- 🎯 **Bộ Chọn Kỳ Kế Toán Thông Minh (Popover Năm ➔ Quý / 12 Tháng):** Tự động lưu kỳ tra cứu theo từng MST và cho phép chọn nhanh bất kỳ Năm nào, click 1 chạm vào bất kỳ Tháng nào (T1 → T12) hoặc Quý nào (Q1 → Q4).\n- ⚡ **Đồng Bộ Kỳ Ngày Tra Cứu Mua Vào & Bán Ra:** Tự động đồng bộ và kế thừa khoảng ngày tra cứu (Từ ngày - Đến ngày, các nút chọn nhanh Quý/Tháng/Năm) khi chuyển đổi giữa tab Mua vào và Bán ra.",
+  "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
+  "revoked_licenses": [],
+  "revoked_devices": [],
+  "announcement": {
+    "enabled": false,
+    "title": "",
+    "message": "",
+    "level": "INFO"
+  }
+}
