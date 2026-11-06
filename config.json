@@ -1,0 +1,14 @@
+{
+  "app_version": "4.3.10",
+  "latest_version": "4.3.10",
+  "release_notes": "- ⚡ **Trạng Thái Quét Theo Kỳ & Công Ty:** Nhận biết kỳ kế toán đã quét hay chưa, quét lúc nào ngay trên thanh công cụ và chấm trạng thái trực quan trên bộ chọn kỳ mà không cần bấm quét lại.\n- 🎯 **Tự Động Nạp Kỳ Đã Lưu:** Chuyển kỳ hoặc chuyển công ty tự động hiển thị ngay hóa đơn đã lưu từ bộ nhớ đệm, tối ưu tốc độ làm việc tức thì.\n- 🔍 **Mở Nhanh Kỳ Của Hóa Đơn Gốc:** Hỗ trợ truy cập trực tiếp kỳ phát sinh của hóa đơn gốc khi tra cứu các hóa đơn thay thế hoặc điều chỉnh.\n- 🔧 **Tối Ưu Hiển Thị Ma Trận Đối Tác:** Cho phép tự động xuống dòng linh hoạt tên khách hàng / nhà cung cấp, hiển thị trọn vẹn thông tin trên bảng tổng hợp.",
+  "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
+  "revoked_licenses": [],
+  "revoked_devices": [],
+  "announcement": {
+    "enabled": false,
+    "title": "",
+    "message": "",
+    "level": "INFO"
+  }
+}
