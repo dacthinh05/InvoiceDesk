@@ -1,0 +1,14 @@
+{
+  "app_version": "4.3.12",
+  "latest_version": "4.3.12",
+  "release_notes": "- ⚡ **Header Bảng Kê Chi Tiết Excel:** Cố định 5 dòng đầu trang với tổng cộng SUM và SUBTOTAL 9 tự động tính lại khi lọc, kèm AutoFilter và Freeze Panes tiện lợi.\n- 🎯 **Nâng Cấp Bảng Kê Thuế GTGT TT80:** Hiển thị doanh số chưa thuế trên thẻ KPI, chuẩn hóa nhãn thuế suất và bổ sung tìm kiếm tức thì trong bảng chi tiết hóa đơn.\n- 🔍 **Tối Ưu Đối Soát Hóa Đơn:** Bổ sung phóng to toàn màn hình, chế độ Focus Table tập trung dữ liệu và ghi nhớ trạng thái thu gọn bảng cầu đối chiếu.\n- 🔧 **Khắc Phục Chiết Khấu Thương Mại:** Trừ chính xác tiền chiết khấu thương mại thay vì cộng dồn, bảo đảm khớp số liệu tờ khai thuế và HTKK.",
+  "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
+  "revoked_licenses": [],
+  "revoked_devices": [],
+  "announcement": {
+    "enabled": false,
+    "title": "",
+    "message": "",
+    "level": "INFO"
+  }
+}
