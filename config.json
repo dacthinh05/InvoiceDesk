@@ -1,0 +1,14 @@
+{
+  "app_version": "4.4.1",
+  "latest_version": "4.4.1",
+  "release_notes": "- 🎯 **Căn Chỉnh Layout Thanh Công Cụ:** Khắc phục triệt để hiện tượng cụm sắp xếp và tùy chọn lọc bị tràn xuống dòng thứ 3, đảm bảo thanh công cụ luôn cố định 2 hàng gọn gàng trên mọi độ phân giải màn hình laptop và desktop.\n- 🔧 **Tối Ưu Phản Hồi Responsive:** Tinh gọn khoảng cách đệm, chuẩn hóa nút bấm rà soát khách hàng và tự động co giãn linh hoạt ô tìm kiếm khi không gian hiển thị hẹp.",
+  "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
+  "revoked_licenses": [],
+  "revoked_devices": [],
+  "announcement": {
+    "enabled": false,
+    "title": "",
+    "message": "",
+    "level": "INFO"
+  }
+}
