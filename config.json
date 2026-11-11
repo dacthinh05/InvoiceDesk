@@ -1,0 +1,14 @@
+{
+  "app_version": "4.4.4",
+  "latest_version": "4.4.4",
+  "release_notes": "- 🎯 **Tái cấu trúc Bộ chọn Kỳ Kế toán Thông minh:** Chuyển chọn năm sang Dropdown riêng biệt giúp phân định rõ ngữ cảnh năm và thao tác chọn kỳ lọc; bổ sung cụm nút chọn nhanh Cả năm, 6T đầu, 6T cuối linh hoạt theo năm đang chọn.\n- 🎯 **Ma trận Lưới 12 Tháng theo 4 Quý Trực quan:** Sắp xếp 12 tháng thành 4 hàng tương ứng với 4 Quý kế toán kèm vạch phân cách rõ ràng; tích hợp đầy đủ chấm trạng thái quét offline và loại bỏ nút cứng năm cũ.",
+  "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
+  "revoked_licenses": [],
+  "revoked_devices": [],
+  "announcement": {
+    "enabled": false,
+    "title": "",
+    "message": "",
+    "level": "INFO"
+  }
+}
