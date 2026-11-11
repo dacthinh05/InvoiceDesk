@@ -1,0 +1,14 @@
+{
+  "app_version": "4.4.5",
+  "latest_version": "4.4.5",
+  "release_notes": "- ⚡ **Thừa kế Cache Mua Vào Tự Động:** Khi đã quét tab Tất cả, chuyển sang Có mã CQT hoặc Không mã sẽ tự động trích xuất tức thì từ dữ liệu máy, không phải hỏi lại Cổng Thuế.\n- 🔍 **Chuẩn hóa Mốc Quét Toolbar:** Hiển thị mốc quét mới nhất trên thanh công cụ đồng bộ với thanh trạng thái, kèm tooltip chi tiết thời điểm của các tháng cũ.",
+  "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
+  "revoked_licenses": [],
+  "revoked_devices": [],
+  "announcement": {
+    "enabled": false,
+    "title": "",
+    "message": "",
+    "level": "INFO"
+  }
+}
