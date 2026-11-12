@@ -1,0 +1,14 @@
+{
+  "app_version": "4.4.6",
+  "latest_version": "4.4.6",
+  "release_notes": "- 📄 **Hiện dữ liệu đã lưu khi kỳ còn thiếu tháng:** Chọn Cả năm sau khi đã đồng bộ 6T đầu và Quý 3 vẫn hiện ngay các hóa đơn đã có trên máy, kèm cảnh báo tháng còn thiếu; chốt kỳ và soát xét được chặn cho tới khi đồng bộ đủ.\n- 🎯 **Nút Đồng bộ nói rõ phần sẽ tải:** Khi kỳ đã có một phần trên máy, nút ghi \"Đồng bộ phần thiếu\" và liệt kê tháng sẽ tải từ Cổng Thuế, tháng dùng lại dữ liệu máy, không tải lại cả kỳ.",
+  "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
+  "revoked_licenses": [],
+  "revoked_devices": [],
+  "announcement": {
+    "enabled": false,
+    "title": "",
+    "message": "",
+    "level": "INFO"
+  }
+}
