@@ -8,10 +8,10 @@
 
 Vui lòng tải bản cài đặt hoặc bản chạy ngay (Portable) tại mục **Releases**:
 
-👉 **[Tải InvoiceDesk v4.4.6 (Bản mới nhất)](https://github.com/dacthinh05/InvoiceDesk/releases/latest)**
+👉 **[Tải InvoiceDesk v4.4.7 (Bản mới nhất)](https://github.com/dacthinh05/InvoiceDesk/releases/latest)**
 
-- 📦 **InvoiceDesk.Setup.4.4.6.exe** — Bản cài đặt tự động cho Windows
-- 📦 **InvoiceDesk.4.4.6.exe** — Bản Portable (chạy ngay không cần cài đặt)
+- 📦 **InvoiceDesk.Setup.4.4.7.exe** — Bản cài đặt tự động cho Windows
+- 📦 **InvoiceDesk.4.4.7.exe** — Bản Portable (chạy ngay không cần cài đặt)
 
 ---
 
