@@ -1,7 +1,7 @@
 {
-  "app_version": "4.4.8",
-  "latest_version": "4.4.8",
-  "release_notes": "- 🎯 **Bong bóng thoại của Pet không còn che ô chọn ngày:** Bong bóng nay nằm ngang cạnh Pet ngay trên thanh trên cùng, tối đa 2 dòng; câu dài rê chuột vào để xem đủ, bấm để ẩn.",
+  "app_version": "4.4.9",
+  "latest_version": "4.4.9",
+  "release_notes": "- 🔍 **Đối chiếu bảng kê loại hóa đơn Lỗi CQT:** Hóa đơn chưa được cấp mã hoặc bị từ chối cấp mã chuyển sang sheet HoaDonBiLoai, cầu đối chiếu có dòng riêng \"Trừ HĐ lỗi CQT\".\n- 🔍 **Sheet ketquadoichieu-filter:** Bỏ sẵn các hóa đơn chưa kê khai thuộc nhóm chi phí nhỏ (ngân hàng, viễn thông, VETC, siêu thị), không có thuế hoặc tổng bằng 0; phần đã bỏ liệt kê kèm lý do ở cuối sheet.\n- 🎯 **Kết quả đối chiếu dễ đọc hơn:** Mỗi nhóm có dòng tiêu đề màu kèm số hóa đơn và tiền thuế, số âm màu đỏ, hóa đơn điều chỉnh / thay thế có màu, cột tên người bán đứng yên khi cuộn ngang.\n- 🔍 **Ghép được hóa đơn khi Bảng kê ghi sai MST:** Hóa đơn trùng số, khớp tiền và ngày gần nhau được ghép cặp, kèm cảnh báo và bảng MST cần sửa trong sheet CauDoiChieu.\n- 📄 **Đọc được bảng kê Excel 97-2003 (.xls):** Tệp .xls xuất từ HTKK nhập được trực tiếp, không còn báo lỗi.\n- ⚙️ **Tự nhận cột ngày lập hóa đơn của bảng kê HTKK:** Không phải chọn tay cột \"Ngày, tháng, năm lập hóa đơn\" mỗi lần nhập PL 01-1 và PL 01-2/GTGT.",
   "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
   "revoked_licenses": [],
   "revoked_devices": [],
