@@ -1,7 +1,7 @@
 {
-  "app_version": "4.4.7",
-  "latest_version": "4.4.7",
-  "release_notes": "- 🔍 **Bỏ lọc mở đúng nhóm hóa đơn máy tính tiền:** Kỳ Bán ra chỉ có hóa đơn máy tính tiền thì màn hình báo rõ và có nút xem ngay các hóa đơn đó; nút Bỏ lọc nay xóa cả bộ lọc Bán nội địa / Xuất khẩu.\n- 🎯 **Số trên ô lọc khớp với bảng:** Ô Bán nội địa và Xuất khẩu không còn đếm hóa đơn máy tính tiền, bấm vào thấy đúng số hóa đơn đã hiện.\n- ⚙️ **Nhập ngày thành lập khi thêm doanh nghiệp:** Ô không bắt buộc trên màn hình đăng nhập; khi đồng bộ, kể cả chọn Cả năm, app chỉ tra cứu từ tháng thành lập trở đi.",
+  "app_version": "4.4.8",
+  "latest_version": "4.4.8",
+  "release_notes": "- 🎯 **Bong bóng thoại của Pet không còn che ô chọn ngày:** Bong bóng nay nằm ngang cạnh Pet ngay trên thanh trên cùng, tối đa 2 dòng; câu dài rê chuột vào để xem đủ, bấm để ẩn.",
   "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
   "revoked_licenses": [],
   "revoked_devices": [],
