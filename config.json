@@ -1,0 +1,14 @@
+{
+  "app_version": "4.5.1",
+  "latest_version": "4.5.1",
+  "release_notes": "- 📄 **Mở dữ liệu đã lưu không cần đăng nhập Cổng Thuế:** Trong danh sách MST đã lưu, bấm \"Mở dữ liệu đã lưu\" để xem lại hóa đơn Mua vào / Bán ra đã tải trước đó, vẫn xuất Bảng kê Excel tổng hợp và đối chiếu bình thường khi Cổng Thuế bị lỗi hoặc bảo trì.\n- 🔍 **Đồng bộ tiếp khi Cổng Thuế hoạt động lại:** Bấm \"Đăng nhập để đồng bộ tiếp\", sau đó bấm \"Quét HĐ mới\" để lấy thêm hóa đơn phát sinh sau lần lưu.",
+  "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
+  "revoked_licenses": [],
+  "revoked_devices": [],
+  "announcement": {
+    "enabled": false,
+    "title": "",
+    "message": "",
+    "level": "INFO"
+  }
+}
