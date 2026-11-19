@@ -1,0 +1,14 @@
+{
+  "app_version": "4.5.2",
+  "latest_version": "4.5.2",
+  "release_notes": "- 📄 **Phụ lục giảm thuế GTGT 8% (PL142):** File xuất trong Tổng hợp thuế GTGT có thêm sheet PL142, tự gộp các mặt hàng thuế suất 8% theo tên hàng (mục I mua vào, mục II bán ra) theo mẫu bảng kê nhập HTKK.\n- 📄 **Bảng kê GTGT theo tháng theo bố cục HTKK:** Bảng kê mua vào, bán ra tách theo tháng nay có tên và thuế suất từng mặt hàng, cùng mẫu với nút Bảng kê HTKK.\n- ⚙️ **Tải chi tiết mặt hàng khi xuất:** Tick \"Tải chi tiết mặt hàng\" trong Tổng hợp thuế GTGT để lấy đủ tên hàng cho bảng kê và phụ lục giảm thuế.\n- 🎯 **Menu xuất Excel gọn theo mục đích:** Chia ba nhóm Danh sách hóa đơn, Kê khai thuế GTGT, Nhập phần mềm kế toán; mở Tổng hợp thuế GTGT ngay từ menu xuất.\n- 🔧 **Sửa tiền thuế trên Bảng kê HTKK:** Không còn ra 0 khi dòng hàng không ghi tiền thuế riêng, hóa đơn chỉ có dòng ghi chú không bị mất tiền khỏi tổng, tự loại hóa đơn gốc đã bị thay thế.\n- 🛡️ **Gọn cột rà soát người bán:** Bảng kê tổng hợp bỏ nội dung lặp, chỉ còn cột tình trạng MST và cột rủi ro nhà cung cấp.",
+  "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
+  "revoked_licenses": [],
+  "revoked_devices": [],
+  "announcement": {
+    "enabled": false,
+    "title": "",
+    "message": "",
+    "level": "INFO"
+  }
+}
