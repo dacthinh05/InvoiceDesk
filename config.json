@@ -1,7 +1,7 @@
 {
-  "app_version": "4.5.3",
-  "latest_version": "4.5.3",
-  "release_notes": "- 🛡️ **Loại hóa đơn mua vào khỏi kê khai:** Chọn hóa đơn, bấm \"Loại khỏi kê khai\" và ghi lý do (ví dụ \"Thu hộ, chi hộ\"). Hóa đơn bị loại không tính vào tờ khai, bảng kê HTKK và PL142; bảng kê theo tháng có thêm sheet KeToanLoai liệt kê lý do.\n- ⚙️ **Quy tắc tự loại theo người bán và từ khóa:** Đặt quy tắc như \"người bán X, mọi mặt hàng chứa KLT\" để các hóa đơn sau tự được loại; hóa đơn chỉ khớp một phần có nhãn \"Cần xem\" để kế toán quyết định.\n- 📄 **Bảng kê mua vào có cột Khai thuế / Không khai thuế:** Thêm cột đánh dấu Loại, lý do, tiền khai thuế, tiền không khai thuế và cột kiểm tra; trước khi xuất phần mềm hiện danh sách hóa đơn bị loại để xác nhận.\n- 🔍 **Đối chiếu bảng kê ghi chú hàng tặng:** Hóa đơn chênh lệch có dấu hiệu hàng tặng được gắn nhãn và ghi chú việc cần kiểm tra, cả trên màn hình và file Excel kết quả.\n- 🔧 **Sửa tách thuế suất trong Tổng hợp thuế GTGT:** Đọc đủ các cách ghi tiền và tiền thuế của dòng hàng, hóa đơn nhiều thuế suất không còn rơi vào nhóm \"Hỗn hợp\".\n- 🎯 **Menu Tiện ích gọn hơn:** Còn 4 công cụ chia 2 nhóm; Cài đặt Gemini AI chuyển vào nút Giao diện và cài đặt.",
+  "app_version": "4.5.4",
+  "latest_version": "4.5.4",
+  "release_notes": "- 🔧 **Tờ khai không cộng nhầm phiếu xuất kho nội bộ:** Chứng từ chỉ nhận ra là phiếu xuất kho kiêm vận chuyển nội bộ qua tiêu đề nay bị loại khỏi tờ khai, bảng kê HTKK và PL142, khớp với tổng tiền trên màn hình.\n- 🔧 **Báo đúng kết quả khi xuất Bảng tổng hợp GTGT:** Xuất theo tháng báo rõ file nào không ghi được thay vì báo thành công; khi file đang mở trong Excel, phần mềm báo đúng tên file mới đã lưu.\n- 🔍 **Tổng hợp thuế GTGT đếm đúng số hóa đơn:** Hóa đơn có nhiều thuế suất (ví dụ đồ ăn 8% và bia 10%) nay tính là 1 hóa đơn, không còn bị đếm thành nhiều; số dòng thuế suất ghi riêng bên cạnh.",
   "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
   "revoked_licenses": [],
   "revoked_devices": [],
