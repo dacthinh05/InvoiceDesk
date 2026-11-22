@@ -1,7 +1,7 @@
 {
-  "app_version": "4.5.4",
-  "latest_version": "4.5.4",
-  "release_notes": "- 🔧 **Tờ khai không cộng nhầm phiếu xuất kho nội bộ:** Chứng từ chỉ nhận ra là phiếu xuất kho kiêm vận chuyển nội bộ qua tiêu đề nay bị loại khỏi tờ khai, bảng kê HTKK và PL142, khớp với tổng tiền trên màn hình.\n- 🔧 **Báo đúng kết quả khi xuất Bảng tổng hợp GTGT:** Xuất theo tháng báo rõ file nào không ghi được thay vì báo thành công; khi file đang mở trong Excel, phần mềm báo đúng tên file mới đã lưu.\n- 🔍 **Tổng hợp thuế GTGT đếm đúng số hóa đơn:** Hóa đơn có nhiều thuế suất (ví dụ đồ ăn 8% và bia 10%) nay tính là 1 hóa đơn, không còn bị đếm thành nhiều; số dòng thuế suất ghi riêng bên cạnh.",
+  "app_version": "4.6.0",
+  "latest_version": "4.6.0",
+  "release_notes": "- ⚙️ **Thư mục cho AI:** Bật trong menu thư mục lưu trữ để tự ghi hóa đơn mua vào, bán ra theo từng tháng và kết quả Tổng hợp GTGT (bảng kê tờ khai, thuế phải nộp, ma trận khách hàng / nhà cung cấp) ra file JSON. Chọn thư mục Google Drive hoặc OneDrive để trợ lý AI đọc và đối chiếu số liệu.\n- 🎯 **Chọn tháng thành lập khi thêm doanh nghiệp:** Chọn Tháng và Năm thay vì gõ tay; bộ chọn kỳ ẩn các kỳ trước khi doanh nghiệp thành lập.\n- 🔧 **Menu doanh nghiệp ổn định hơn:** Cuộn được, nhấn Enter để lưu, tháng thành lập được lưu chắc chắn và báo lỗi nếu không ghi được.\n- 🔧 **Đăng nhập Cổng Thuế:** Tự đọc lại mã captcha khi ảnh đổi sau một lần đăng nhập sai.\n- 🎯 **Hộp thoại đăng nhập gọn hơn:** Chữ hướng dẫn ngắn gọn, nút chính là \"Đăng nhập\", các ô nhập dùng chung một kiểu chữ.",
   "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
   "revoked_licenses": [],
   "revoked_devices": [],
