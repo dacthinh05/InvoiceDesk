@@ -1,7 +1,7 @@
 {
-  "app_version": "4.6.0",
-  "latest_version": "4.6.0",
-  "release_notes": "- ⚙️ **Thư mục cho AI:** Bật trong menu thư mục lưu trữ để tự ghi hóa đơn mua vào, bán ra theo từng tháng và kết quả Tổng hợp GTGT (bảng kê tờ khai, thuế phải nộp, ma trận khách hàng / nhà cung cấp) ra file JSON. Chọn thư mục Google Drive hoặc OneDrive để trợ lý AI đọc và đối chiếu số liệu.\n- 🎯 **Chọn tháng thành lập khi thêm doanh nghiệp:** Chọn Tháng và Năm thay vì gõ tay; bộ chọn kỳ ẩn các kỳ trước khi doanh nghiệp thành lập.\n- 🔧 **Menu doanh nghiệp ổn định hơn:** Cuộn được, nhấn Enter để lưu, tháng thành lập được lưu chắc chắn và báo lỗi nếu không ghi được.\n- 🔧 **Đăng nhập Cổng Thuế:** Tự đọc lại mã captcha khi ảnh đổi sau một lần đăng nhập sai.\n- 🎯 **Hộp thoại đăng nhập gọn hơn:** Chữ hướng dẫn ngắn gọn, nút chính là \"Đăng nhập\", các ô nhập dùng chung một kiểu chữ.",
+  "app_version": "4.7.0",
+  "latest_version": "4.7.0",
+  "release_notes": "- 🎯 **Chọn kỳ nhiều tháng:** Giữ Ctrl và nhấn tháng trong bộ chọn kỳ để chọn nhiều tháng liền nhau, ví dụ Tháng 10–11/2026.\n- 🎯 **Tổng hợp GTGT dễ đọc hơn:** Hộp thoại rộng hơn, chữ to hơn; ma trận khách hàng / nhà cung cấp chỉ hiện các tháng có số liệu và giữ cột tên, cột tổng khi kéo ngang; tên đối tác viết gọn như \"CTY TNHH\", \"NH TMCP\".\n- 🔧 **Sửa nhãn chỉ tiêu bán ra:** Thẻ GTGT bán ra trong Tổng hợp GTGT ghi đúng chỉ tiêu [27], [28].\n- 🔍 **Nhận diện đúng nhà cung cấp hóa đơn:** Sửa nhận diện Thái Sơn, Điện lực, M-Invoice, VETC và MobiFone để tải đúng bản PDF gốc.\n- 📄 **Kiểm tra mẫu PDF gốc:** Nút \"Kiểm tra mẫu\" trong hộp thoại Lấy PDF gốc thử tải vài hóa đơn của mỗi nhà cung cấp và cho biết tỷ lệ tải được thật.",
   "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
   "revoked_licenses": [],
   "revoked_devices": [],
