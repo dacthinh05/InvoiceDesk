@@ -1,7 +1,7 @@
 {
-  "app_version": "4.7.0",
-  "latest_version": "4.7.0",
-  "release_notes": "- 🎯 **Chọn kỳ nhiều tháng:** Giữ Ctrl và nhấn tháng trong bộ chọn kỳ để chọn nhiều tháng liền nhau, ví dụ Tháng 10–11/2026.\n- 🎯 **Tổng hợp GTGT dễ đọc hơn:** Hộp thoại rộng hơn, chữ to hơn; ma trận khách hàng / nhà cung cấp chỉ hiện các tháng có số liệu và giữ cột tên, cột tổng khi kéo ngang; tên đối tác viết gọn như \"CTY TNHH\", \"NH TMCP\".\n- 🔧 **Sửa nhãn chỉ tiêu bán ra:** Thẻ GTGT bán ra trong Tổng hợp GTGT ghi đúng chỉ tiêu [27], [28].\n- 🔍 **Nhận diện đúng nhà cung cấp hóa đơn:** Sửa nhận diện Thái Sơn, Điện lực, M-Invoice, VETC và MobiFone để tải đúng bản PDF gốc.\n- 📄 **Kiểm tra mẫu PDF gốc:** Nút \"Kiểm tra mẫu\" trong hộp thoại Lấy PDF gốc thử tải vài hóa đơn của mỗi nhà cung cấp và cho biết tỷ lệ tải được thật.",
+  "app_version": "4.8.0",
+  "latest_version": "4.8.0",
+  "release_notes": "- ⚙️ **Xuất hồ sơ cho AI dễ dùng hơn:** Mục mới \"Gửi cho trợ lý AI\" trong menu Xuất, hiện lần ghi gần nhất và số file, có nút Xuất ngay. File Tổng hợp GTGT không còn bị trùng kỳ khi quét lại, và file hướng dẫn có sẵn câu hỏi mẫu cho trợ lý AI.\n- ⚡ **Tải chi tiết ngầm sau khi quét:** Bật trong menu Tiện ích để app tự tải dần chi tiết hóa đơn ở nền, xuất Bảng kê chi tiết sau đó không phải chờ Cổng Thuế. Tắt sẵn.\n- 🎯 **Bảng giao diện gọn hơn:** Nút Cài đặt và Mở không còn bị kéo giãn, linh vật bật tắt bằng công tắc, bỏ chữ tiếng Anh phụ.",
   "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
   "revoked_licenses": [],
   "revoked_devices": [],
