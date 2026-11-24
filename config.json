@@ -1,7 +1,7 @@
 {
-  "app_version": "4.8.0",
-  "latest_version": "4.8.0",
-  "release_notes": "- ⚙️ **Xuất hồ sơ cho AI dễ dùng hơn:** Mục mới \"Gửi cho trợ lý AI\" trong menu Xuất, hiện lần ghi gần nhất và số file, có nút Xuất ngay. File Tổng hợp GTGT không còn bị trùng kỳ khi quét lại, và file hướng dẫn có sẵn câu hỏi mẫu cho trợ lý AI.\n- ⚡ **Tải chi tiết ngầm sau khi quét:** Bật trong menu Tiện ích để app tự tải dần chi tiết hóa đơn ở nền, xuất Bảng kê chi tiết sau đó không phải chờ Cổng Thuế. Tắt sẵn.\n- 🎯 **Bảng giao diện gọn hơn:** Nút Cài đặt và Mở không còn bị kéo giãn, linh vật bật tắt bằng công tắc, bỏ chữ tiếng Anh phụ.",
+  "app_version": "4.8.1",
+  "latest_version": "4.8.1",
+  "release_notes": "- 🎯 **Tên gợi nhớ không còn tự lưu:** Khi bấm Sửa để đổi màu hoặc tháng thành lập, phần mềm không tự lưu tên rút gọn thành tên gợi nhớ nữa. Bảng MST đã lưu trong cửa sổ đăng nhập hiện tên đầy đủ thống nhất cho mọi dòng, chỉ tô xanh tên gợi nhớ do bạn tự đặt.\n- ⚡ **Tải chi tiết ngầm cho mọi cách nạp danh sách:** Khi bật tải chi tiết ngầm, app tự tải dần chi tiết hóa đơn sau Đồng bộ, Quét HĐ mới hoặc mở dữ liệu đã lưu, không chỉ sau khi quét.",
   "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
   "revoked_licenses": [],
   "revoked_devices": [],
