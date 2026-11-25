@@ -1,7 +1,7 @@
 {
-  "app_version": "4.8.1",
-  "latest_version": "4.8.1",
-  "release_notes": "- 🎯 **Tên gợi nhớ không còn tự lưu:** Khi bấm Sửa để đổi màu hoặc tháng thành lập, phần mềm không tự lưu tên rút gọn thành tên gợi nhớ nữa. Bảng MST đã lưu trong cửa sổ đăng nhập hiện tên đầy đủ thống nhất cho mọi dòng, chỉ tô xanh tên gợi nhớ do bạn tự đặt.\n- ⚡ **Tải chi tiết ngầm cho mọi cách nạp danh sách:** Khi bật tải chi tiết ngầm, app tự tải dần chi tiết hóa đơn sau Đồng bộ, Quét HĐ mới hoặc mở dữ liệu đã lưu, không chỉ sau khi quét.",
+  "app_version": "4.8.2",
+  "latest_version": "4.8.2",
+  "release_notes": "- 🎯 **Tháng thành lập không còn bắt buộc:** Khi thêm doanh nghiệp mới, có thể để trống tháng và năm thành lập để đăng nhập ngay, phần mềm quét đủ các kỳ như trước. Bổ sung sau được trong menu doanh nghiệp.",
   "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
   "revoked_licenses": [],
   "revoked_devices": [],
