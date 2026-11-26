@@ -1,7 +1,7 @@
 {
-  "app_version": "4.8.2",
-  "latest_version": "4.8.2",
-  "release_notes": "- 🎯 **Tháng thành lập không còn bắt buộc:** Khi thêm doanh nghiệp mới, có thể để trống tháng và năm thành lập để đăng nhập ngay, phần mềm quét đủ các kỳ như trước. Bổ sung sau được trong menu doanh nghiệp.",
+  "app_version": "4.8.3",
+  "latest_version": "4.8.3",
+  "release_notes": "- 📄 **Thư mục cho AI luôn cập nhật sau Đồng bộ:** Sau khi bấm Đồng bộ, file mua-vao.json / ban-ra.json trong thư mục cho AI được ghi lại theo dữ liệu vừa tải, không còn dừng ở ngày cũ.\n- ⚙️ **Định khoản dùng quy tắc tự thêm:** Xuất Excel Chi tiết + Định khoản giờ áp dụng các quy tắc bạn thêm trong Cấu hình Quy tắc Từ điển (ví dụ nước ngọt vào TK 156), không còn đưa hết về 6428.\n- 🔧 **Định khoản đúng cho hóa đơn bán ra:** Excel Chi tiết + Định khoản của hóa đơn bán ra ghi Nợ 131, Có 5111 hoặc 5113, thuế 33311.\n- 🎯 **Thanh trạng thái gọn trên một dòng:** Chữ ở cuối màn hình không còn gãy dòng hay bị cắt khi tổng tiền dài.",
   "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
   "revoked_licenses": [],
   "revoked_devices": [],
