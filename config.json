@@ -1,7 +1,7 @@
 {
-  "app_version": "4.8.5",
-  "latest_version": "4.8.5",
-  "release_notes": "- 🔍 **Báo rõ vì sao còn hóa đơn thiếu chi tiết:** Khi Cổng Thuế tạm khóa truy vấn giữa lúc tải chi tiết, hộp thoại xuất Bảng kê không còn báo Hoàn tất. Hộp thoại ghi rõ còn bao nhiêu hóa đơn thiếu chi tiết và mấy giờ thì bấm \"Tải lại HĐ thiếu\" được, tránh bấm lại trong lúc đang bị khóa.\n- ⚙️ **Chọn hạch toán theo TT99 hoặc TT200:** Màn hình Xuất MISA AMIS & FAST có ô chọn thông tư, mặc định TT99. Cấu hình Quy tắc Từ điển chỉ còn một cột TK Nợ (TT99 / TT200), bỏ cột TT133 không dùng đến.",
+  "app_version": "4.8.6",
+  "latest_version": "4.8.6",
+  "release_notes": "- ⚡ **Không tải chi tiết ngầm nữa:** App không còn tự tải chi tiết hóa đơn ở nền sau khi Đồng bộ hay Quét, nên màn hình không còn giật. Chi tiết chỉ được tải khi bạn bấm Tải chi tiết hoặc xuất Excel Chi tiết. Công tắc \"Tải chi tiết ngầm sau khi quét\" trong menu Tiện ích đã được bỏ.",
   "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
   "revoked_licenses": [],
   "revoked_devices": [],
