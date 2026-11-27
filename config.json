@@ -1,7 +1,7 @@
 {
-  "app_version": "4.8.4",
-  "latest_version": "4.8.4",
-  "release_notes": "- 🎯 **Lưu được tên gợi nhớ trùng tên rút gọn:** Đặt tên gợi nhớ giống phần tên riêng của công ty (ví dụ TTP666 cho CÔNG TY TNHH MTV TTP666) giờ được lưu và hiện trong danh sách MST. Nếu trước đây đã lưu mà không thấy, hãy gõ lại tên và bấm Lưu một lần.",
+  "app_version": "4.8.5",
+  "latest_version": "4.8.5",
+  "release_notes": "- 🔍 **Báo rõ vì sao còn hóa đơn thiếu chi tiết:** Khi Cổng Thuế tạm khóa truy vấn giữa lúc tải chi tiết, hộp thoại xuất Bảng kê không còn báo Hoàn tất. Hộp thoại ghi rõ còn bao nhiêu hóa đơn thiếu chi tiết và mấy giờ thì bấm \"Tải lại HĐ thiếu\" được, tránh bấm lại trong lúc đang bị khóa.\n- ⚙️ **Chọn hạch toán theo TT99 hoặc TT200:** Màn hình Xuất MISA AMIS & FAST có ô chọn thông tư, mặc định TT99. Cấu hình Quy tắc Từ điển chỉ còn một cột TK Nợ (TT99 / TT200), bỏ cột TT133 không dùng đến.",
   "download_url": "https://github.com/dacthinh05/InvoiceDesk/releases/latest",
   "revoked_licenses": [],
   "revoked_devices": [],
